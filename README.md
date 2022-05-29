@@ -1,8 +1,8 @@
 # grocery-expense-data-visualisation
 
-##This project analyse and visualise your monthly grocery expense with your bank statement (CSV format)
+This project analyse and visualise your monthly grocery expense with your bank statement (CSV format)
 
-###The rising grocery prices in New Zealand would prompt one to be aware of one's grocery expenses.
+The rising grocery prices in New Zealand would prompt one to be aware of one's grocery expenses.
 These codes read the transaction code in your bank statement from all 3 major supermarkets in New Zealand. 
 Namely, Countdown, Pak'n Save and New World.
 
