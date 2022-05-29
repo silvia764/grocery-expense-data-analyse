@@ -1,4 +1,4 @@
-# grocery-expense-data-visualisation
+# Grocery expense data analyse and visualisation
 
 This project analyse and visualise your monthly grocery expense with your bank statement (CSV format)
 
